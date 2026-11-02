@@ -279,6 +279,18 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+  - source: https://github.com/hans/obsidian-citation-plugin/
+    enabled: false
+    options:
+      folder: /Nuky/Projects/JHU.cogbeh/EN.705.640.Intelligence/content
+      fileOrder:
+        - cogbehcitations.json
+    order: 50
+  - source: https://github.com/gerritkruse/obsidian-citation-links
+    enabled: true
+    options:
+      citationExportPath: cogbehcitations.json
+    order: 50
 layout:
   groups:
     toolbar:

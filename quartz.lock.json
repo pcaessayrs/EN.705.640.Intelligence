@@ -6,6 +6,18 @@
       "resolved": "https://github.com/quartz-community/comments.git",
       "commit": "f8e2588f94f008761c1f67d28b1e19e8bd057408",
       "installedAt": "2026-10-29T22:44:18.251Z"
+    },
+    "obsidian-citation-links": {
+      "source": "https://github.com/gerritkruse/obsidian-citation-links",
+      "resolved": "https://github.com/gerritkruse/obsidian-citation-links",
+      "commit": "3432c1ab627280923a8dccdf0ecd6942918dd16c",
+      "installedAt": "2026-11-02T09:49:37.652Z"
+    },
+    "obsidian-citation-plugin": {
+      "source": "https://github.com/hans/obsidian-citation-plugin/",
+      "resolved": "https://github.com/hans/obsidian-citation-plugin/",
+      "commit": "2edeeceaf5f38de90f77f111ab46d24eef3e0bfa",
+      "installedAt": "2026-11-02T09:35:45.358Z"
     }
   }
 }
