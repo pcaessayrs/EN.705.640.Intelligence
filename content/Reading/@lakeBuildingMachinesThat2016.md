@@ -12,3 +12,6 @@ _Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman_, 201
 
 http://arxiv.org/abs/1604.00289
 
+#bootstrapping
+
+
