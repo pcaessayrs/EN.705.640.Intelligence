@@ -271,7 +271,7 @@ plugins:
       priority: 15
       display: all
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
