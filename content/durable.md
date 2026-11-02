@@ -4,5 +4,6 @@ animals exhibit durable [[long-term memory]]. a caterpillar can be trained to av
 
 an intelligent system records _some_, but _not all_, information in long-term memory.
 
-
 some [[artificial intelligence]] architectures are susceptible to [[catastrophic forgetting]].
+
+#coreconcept 
