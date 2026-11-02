@@ -1,9 +1,9 @@
-intelligence is _durable_ if it is maintained for a long period of time.
+Intelligence is _durable_ if it is maintained for a long period of time.
 
-animals exhibit durable [[long-term memory]]. in moths, learning of negative associations with odors trained as larvae is maintained through metamorphosis into adulthood [[@blackistonRetentionMemoryMetamorphosis2008 |(Blackiston et al. 2008)]].
+Animals exhibit durable [[long-term memory]]. in moths, learning of negative associations with odors trained as larvae is maintained through metamorphosis into adulthood [[@blackistonRetentionMemoryMetamorphosis2008 |(Blackiston et al. 2008)]].
 
-an intelligent system records _some_, but _not all_, information in long-term memory.
+An intelligent system records _some_, but _not all_, information in [[long-term memory]]. The capacity for selective learning of new information is also an aspect of intelligence.
 
-some [[artificial intelligence]] architectures are susceptible to [[catastrophic forgetting]], an example of non-durable memory.
+Some [[artificial intelligence]] architectures are susceptible to [[catastrophic forgetting]], an example of non-durable memory.
 
 #coreconcept 

@@ -1,1 +1,1 @@
-Slime molds are an example of an
+Slime molds are an example of an non-[[neuron]]al intelligence. Slime molds are a single-celled organism that displays intelligence when in a group [[@soleLiquidBrainsSolid2019|(Sole 2019)]].

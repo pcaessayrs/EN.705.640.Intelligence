@@ -1,0 +1,3 @@
+_Turing completeness is, loosely, the capacity of a system to simulate any other Turing-complete system, that is, the capacity for universal functionality and calculation._
+
+Generally, Turing completeness requires arbitrarily large storage and memory, but for most purposes it is enough to have just looping and control flow ("linear bounded automaton"). For example, humans are Turing-complete, with sufficient pen and paper to write to. A [[large language model]] is not Turing-complete without adding external storage, control over its own flow, and a loop to repeatedly act on its output.
