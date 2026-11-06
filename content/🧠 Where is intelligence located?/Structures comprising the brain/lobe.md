@@ -1,0 +1,1 @@
+In an animal brain, a [[lobe]] is a collection of relatively-interconnected neurons. ([[@mousleyTopologicalTurningPoints2025|Mousley et al., 2025]]

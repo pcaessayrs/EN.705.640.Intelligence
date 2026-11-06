@@ -1,4 +1,6 @@
 _I am aware that this is an exam. The purpose of this exam is to test my knowledge, and my knowledge alone of the course’s material. While I have access during completion of this exam to the course readings, weekly slides, any notes I may have taken during class meetings, and the Internet at large, including AI-enabled technologies capable of generating content, my signature below certifies that I have not sought out any help and/or information whatsoever from others to complete this exam. Further, I have edited and transformed any AI-generated content I may have used to build my answer. The answer provided is mine and written in my own words._
 
+_As an addendum, I strictly did not include or refer to any LLM generated content in the production of this work, transformed or otherwise, so any robot-like text is the product of my own autism (including the emojis in the features list! they are useful for enforcing an order alphabetically!)._
+
 Digital signature: Patrik Caes-Sayrs
-Date: 2026/11/6
+Date: 2026/11/06

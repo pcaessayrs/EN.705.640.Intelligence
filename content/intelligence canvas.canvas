@@ -10,7 +10,7 @@
 		{"id":"a391b0e0c3ba5284","type":"text","text":"#### What is intelligence made of and where is it?","x":-264,"y":800,"width":520,"height":60,"color":"2"},
 		{"id":"2ff1841878e10c6c","type":"text","text":"Intelligence can exist in many different ways, and there has been extensive debate about whether human intelligence is strictly due to the capabilities of neurons (see: connectionist versus symbolic AI)","x":-264,"y":940,"width":520,"height":220},
 		{"id":"e496190cd4894a5c","type":"file","file":"👶 How does intelligence develop?/👶 The newborn brain.md","x":411,"y":830,"width":509,"height":212},
-		{"id":"b075e6474e221eaa","x":411,"y":1100,"width":509,"height":170,"type":"file","file":"👶 How does intelligence develop?/The slime mold brain.md"},
+		{"id":"b075e6474e221eaa","type":"file","file":"👶 How does intelligence develop?/The slime mold brain.md","x":411,"y":1100,"width":509,"height":170},
 		{"id":"21a76dfccc8f5168","type":"file","file":"🤖 What are we missing about intelligence?/🤖What open questions remain in intelligence?.md","x":-264,"y":1760,"width":520,"height":200},
 		{"id":"952d140b446dff2c","type":"file","file":"🧠 Where is intelligence located?/🧠 What is the substance of intelligence?.md","x":-264,"y":1360,"width":520,"height":240},
 		{"id":"b15fb411d952e5d4","type":"text","text":"#### How do we define intelligence?","x":-264,"y":100,"width":520,"height":50,"color":"2"}
