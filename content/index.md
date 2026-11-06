@@ -13,4 +13,5 @@ A system is intelligent even before it [[learning|learns]]. For example, [[👶 
 Contemporary [[artificial intelligence]] is often [[Intelligence is fluid|fluid]] and [[Intelligence is generalizable|generalizable]], but the learning is rarely [[Intelligence is durable|durable]] and not even a fraction as [[Intelligence is rapid|rapid]] as a newborn human when normalized for the amount of [[information]].
 
 # [[🧠 What is the substance of intelligence?|What is intelligence made of?]]
+In humans and artificial neural networks, intelligence arises primarily through [[neuron]]s.
 **The [[structure]] of a system determines its intelligence: what and how it learns.**
