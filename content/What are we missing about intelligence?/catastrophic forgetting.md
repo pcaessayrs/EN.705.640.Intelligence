@@ -1,1 +1,0 @@
-_The failure mode in [[artificial neural network]]s where new knowledge interferes with previously learned knowledge. [[@parisiContinualLifelongLearning2019|(Parisi 2019)]]_

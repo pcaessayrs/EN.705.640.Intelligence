@@ -1,6 +1,6 @@
 _The mechanism, physical substance, or software that carries intelligence._
 
-In humans and in [[artificial neural network]]s, the medium of intelligence is predominantly the [[neuron]]. Most, but not all, human neurons are in the [[brain]].  
+In humans and in [[artificial neural network]]s, the medium of intelligence is predominantly the [[neuron]]. Most, but not all, human neurons are in the [[The animal brain]].  
 
 [[The slime mold brain]] are a liquid "brain" that acts intelligently without neurons, instead learning to solve problems using complex biomechanical and chemical approaches [[@soleLiquidBrainsSolid2019|(Sole et al. 2019)]].
 
