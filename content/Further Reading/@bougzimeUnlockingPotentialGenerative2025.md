@@ -1,5 +1,5 @@
 ---
-title: Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations
+title: 'Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations'
 authors: 
 year: 
 citekey: bougzimeUnlockingPotentialGenerative2025
