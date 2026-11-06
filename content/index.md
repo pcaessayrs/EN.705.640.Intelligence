@@ -1,0 +1,1 @@
+![[intelligence canvas.canvas]]
