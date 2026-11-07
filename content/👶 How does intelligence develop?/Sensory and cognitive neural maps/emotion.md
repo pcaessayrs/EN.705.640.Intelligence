@@ -1,0 +1,5 @@
+_The (usually subjective) perception of the current cognitive state of a system that fluctuates in decision-making based off the associated physiological rewards of its short-term rolling inputs._
+
+It is not thoroughly well-understood how humans sense their own emotion, but in neurotypical humans, the [[lobe|amygdala]] is involved [[@schullerAgeArtificialEmotional2018|(Schuller & Schuller, 2018)]] by receiving immediate input from sensory organs and (possibly) predicting an appropriate probable emotional state. In allistic humans, emotion is probably sensed, perceived, and registered directly within the amygdala, which also is used in interpreting the perceived emotions of other people as mediated by [[audition]], [[vision]], [[olfaction]], and other senses.
+
+Different structures and different network-connectivity in the amygdala may explain differences in emotional processing in autism. [[@wangRevisitAmygdalaTheory2023|(Wang & Li, 2023)]]

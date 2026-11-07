@@ -1,0 +1,1 @@
+_The processing of information into a new form to apply it as knowledge._

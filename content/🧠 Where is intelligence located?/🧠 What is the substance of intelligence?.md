@@ -6,4 +6,4 @@ In humans and in [[artificial neural network]]s, the medium of intelligence is p
 
 Among other questions, [[@mccarthyWHATARTIFICIALINTELLIGENCE2007|McCarthy (2007)]] pondered, "Are computers the right kind of machine to be made intelligent?", pointing out that computers are, after all, [[Turing complete]] and thus able to simulate any other machine. (He did not consider slime molds as an alternative.) 
 
-Because [[Turing complete|Turing completeness]] implies interoperability of computations, 
+Because [[Turing complete|Turing completeness]] implies interoperability of computations, any linear bounded automaton can approximate any other (e.g. crabs can run Doom).

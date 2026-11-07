@@ -1,4 +1,4 @@
-Intelligence is _durable_ if it is maintained for a long period of time.
+_Durable intelligence: Intelligence maintained for a long period of time in the face of adverse inputs._
 
 Animals exhibit durable [[long-term memory]]. in moths, learning of negative associations with odors trained as larvae is maintained through metamorphosis into adulthood [[@blackistonRetentionMemoryMetamorphosis2008 |(Blackiston et al. 2008)]].
 

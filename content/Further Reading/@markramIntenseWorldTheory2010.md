@@ -1,0 +1,10 @@
+---
+title: 'The Intense World Theory – A Unifying Theory of the Neurobiology of Autism'
+authors: Kamila Markram, Henry Markram
+year: 
+citekey: markramIntenseWorldTheory2010
+---
+
+> Autism covers a wide spectrum of disorders for which there are many views, hypotheses and theories. Here we propose a unifying theory of autism, the Intense World Theory. The proposed neuropathology is hyper-functioning of local neural microcircuits, best characterized by hyper-reactivity and hyper-plasticity. Such hyper-functional microcircuits are speculated to become autonomous and memory trapped leading to the core cognitive consequences of hyper-perception, hyper-attention, hyper-memory and hyper-emotionality.The theory is centered on the neocortex and the amygdala, but could potentially be applied to all brain regions. The severity on each axis depends on the severity of the molecular syndrome expressed in different brain regions, which could uniquely shape the repertoire of symptoms of an autistic child.The progression of the disorder is proposed to be driven by overly strong reactions to experiences that drive the brain to a hyper-preference and overly selective state, which becomes more extreme with each new experience and may be particularly accelerated by emotionally charged experiences and trauma. This may lead to obsessively detailed information processing of fragments of the world and an involuntarily and systematic decoupling of the autist from what becomes a painfully intense world.The autistic is proposed to become trapped in a limited, but highly secure internal world with minimal extremes and surprises. We present the key studies that support this theory of autism, show how this theory can better explain past findings, and how it could resolve apparently conflicting data and interpretations. The theory also makes further predictions from the molecular to the behavioral levels, provides a treatment strategy and presents its own falsifying hypothesis.
+
+http://journal.frontiersin.org/article/10.3389/fnhum.2010.00224/abstract

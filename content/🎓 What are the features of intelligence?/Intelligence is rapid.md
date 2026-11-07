@@ -1,9 +1,5 @@
----
-title: Intelligence is rapid
-cssclasses:
-  - centering
----
-The capacity to [[learning|learn]] from scarce [[information]].
+
+_Rapid intelligence: intelligence that [[learning|learns]] from scarce [[information]]._
 
 In [[@lakeBuildingMachinesThat2016|Lake et al. 2016]], the authors contrasted human intelligence against artificial intelligence in terms of game experience, finding that humans can perform much better, much faster.
 
