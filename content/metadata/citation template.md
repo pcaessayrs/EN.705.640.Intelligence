@@ -1,10 +1,10 @@
 ---
 title: '{{title}}'
-authors: {{authorString}}
+authors: {{authors}}
 year: {{year}}
 citekey: {{citekey}}
 ---
 
-> {{abstract}}
+> {{abstractNote}}
 
 {{url}}

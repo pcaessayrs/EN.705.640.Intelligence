@@ -1,5 +1,5 @@
 ---
-title: Topological turning points across the human lifespan
+title: 'Topological turning points across the human lifespan'
 authors: 
 year: 
 citekey: mousleyTopologicalTurningPoints2025
