@@ -1,4 +1,4 @@
-The [[The animal brain|brain]] can be described as having multiple epochs, that is, periods of growth and structural change in the [[neuron]]s that have characteristic changes in network-connectivity features. [[@mousleyTopologicalTurningPoints2025|(Mousley et al., 2025)]]
+The [[The human brain|brain]] can be described as having multiple epochs, that is, periods of growth and structural change in the [[neuron]]s that have characteristic changes in network-connectivity features. [[@mousleyTopologicalTurningPoints2025|(Mousley et al., 2025)]]
 
 From years 0 to 9, the young brain is typified by growth in clustering, and many new connections form between neurons leading to a very densely packed brain.
 

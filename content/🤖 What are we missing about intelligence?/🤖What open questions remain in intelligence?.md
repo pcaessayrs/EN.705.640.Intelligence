@@ -1,5 +1,5 @@
 ### How is memory preserved in the long-term?
-In primates, the hippocampus in [[The animal brain|the animal brain]] is responsible for [[memory]]. Contemporary AI can suffer from [[catastrophic forgetting]] or from quadratic (or worse) growth in parameters needed to avoid forgetting.
+In primates, the hippocampus in [[The human brain|the animal brain]] is responsible for [[memory]]. Contemporary AI can suffer from [[catastrophic forgetting]] or from quadratic (or worse) growth in parameters needed to avoid forgetting.
 ### How do we make systems with firm, accurate knowledge of what they know?
 This is a varied and open-ended question. One approach is to use neuro-symbolic approaches to back [[neuron|connectionist]] linguistic intelligence with logical fact-based intelligence. [[@bougzimeUnlockingPotentialGenerative2025|(Bougzime et al., 2025)]]
 ### What defines consciousness?
